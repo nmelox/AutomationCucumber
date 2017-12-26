@@ -1,0 +1,44 @@
+2017-12-21 17:53:52,193 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-21 17:55:14,191 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\pom.xml
+2017-12-21 17:55:16,035 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationII:CursoCucumber:0.0.1-SNAPSHOT @ C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\pom.xml.
+2017-12-21 17:55:16,648 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CursoCucumber/src/main/java
+2017-12-21 17:55:16,657 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CursoCucumber/src/test/java
+2017-12-21 17:55:17,482 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-12-21 17:55:18,218 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 17:55:18,219 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 17:55:18,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 17:55:18,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:03:33,524 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: AutomationII:CursoCucumber:0.0.1-SNAPSHOT @ C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\pom.xml.
+2017-12-21 18:04:37,327 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationII:CursoCucumber:0.0.1-SNAPSHOT @ C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\pom.xml.
+2017-12-21 18:04:37,958 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:37,958 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:04:37,960 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:37,960 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:04:44,948 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:44,948 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:04:44,950 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:44,951 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:04:53,734 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:53,735 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:04:53,737 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:04:53,738 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:05:10,258 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:10,258 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:05:10,260 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:10,260 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:05:19,998 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:19,999 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:05:20,001 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:20,001 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:05:30,272 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:30,273 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:05:30,274 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:05:30,274 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:09:06,117 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:09:06,118 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:09:06,121 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:09:06,121 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
+2017-12-21 18:09:56,767 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:09:56,768 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\main\resources
+2017-12-21 18:09:56,771 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-21 18:09:56,772 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nmelo\QATools\AutomationBBD\AutomationCucumber\CursoCucumber\src\test\resources
